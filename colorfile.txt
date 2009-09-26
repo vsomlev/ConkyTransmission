@@ -1,0 +1,5 @@
+Stopped=ABCDEF
+Seeding=FFFFFF
+Up & Down=00FF00
+Downloading=33BD23
+Idle=0000B2

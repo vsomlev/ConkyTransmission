@@ -1,0 +1,24 @@
+#!/usr/bin/conky -c
+own_window true
+own_window_transparent yes
+own_window_type desktop
+own_window_hints undecorated,sticky,skip_taskbar,skip_pager,below
+
+double_buffer yes
+use_xft yes
+update_interval 1
+draw_shades yes
+draw_borders no
+draw_graph_borders no
+draw_outline no
+xftfont monospace:pixelsize=10
+minimum_size 4 0
+border_margin 0
+pad_percents 2
+alignment bottom_left
+gap_x 85
+gap_y 1
+default_color B2CDC8
+
+TEXT
+${execpi 30 /home/uibxn/Workspace/Python/ConkyTransmission/runDefault.sh}

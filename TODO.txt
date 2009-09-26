@@ -1,0 +1,2 @@
+- Do extensive testing
+- Create good looking example templates
